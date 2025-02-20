@@ -9,7 +9,7 @@ n m k
 w
 A 
 
-* [Formulation F1](F1_2024_cuts.py): Code in Python for k-way Hypergraph Equipartitioning Problem (Formulation F1). The Gurobi package is needed for the linear models.
+* [Formulation F1](F1_2024_cuts.py): Code in Python for k-way Hypergraph Equipartitioning Problem. The Gurobi package is needed for the linear models.
 
-* [Formulation F2 and F3](F2_F3_2024_cuts.py): Code in Python for k-way Hypergraph Equipartitioning in Linear Hyper-trees (Formulation F2 and F3). The Gurobi package is needed for the linear models.
+* [Formulation F2 and F3](F2_F3_2024_cuts.py): Code in Python for k-way Hypergraph Equipartitioning in Linear Hyper-trees. The Gurobi package is needed for the linear models.
 
